@@ -55,15 +55,6 @@ To analyze customer transaction data and build a model that predicts Customer Li
 
 ---
 
-## 📈 Visual Outputs
-
-### 🧩 Correlation Heatmap
-![Heatmap](https://github.com/your-username/your-repo/assets/heatmap-preview.png)
-
-### 📉 Elbow Method for Optimal Clusters
-![Elbow Plot](https://github.com/your-username/your-repo/assets/elbow-plot.png)
-
----
 
 ## 📝 Key Findings
 
@@ -104,7 +95,7 @@ To analyze customer transaction data and build a model that predicts Customer Li
 ## 🙋‍♂️ Author
 
 **Mukesh Kumar Padhi**  
-📫 [LinkedIn](https://www.linkedin.com/in/mukeshpadhi) | ✨ GitHub: [mukeshpadhi](https://github.com/mukeshpadhi)
+📫 [LinkedIn]([https://www.linkedin.com/in/mukeshpadhi](https://www.linkedin.com/in/mukesh-kumar-padhi07/) | ✨ GitHub: [mukeshpadhi]([https://github.com/mukeshpadhi](https://github.com/Mukeshkup/)
 
 ---
 
